@@ -1,0 +1,3 @@
+Please Enter The Password : %shackerearth
+ Accepted
+ Flag is: HE{W0rK_H@rD_pl@y_Hard3R}Wrong Password! Try Harder..

@@ -1,0 +1,7 @@
+Description
+I Received one message from my manager.
+
+She told, "Hackerman! I have uploaded a txt file in s3 which is located in the Asia Pacific (Singapore) SouthEast and bucket name is: c7407e13644434" I tried all the ways but not able to fetch this file. Can you please help me with that?
+
+Mission
+Get the flag file and submit text written in it below

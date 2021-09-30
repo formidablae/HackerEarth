@@ -1,0 +1,1 @@
+A piece of information which is sent along with the data to the source computer?

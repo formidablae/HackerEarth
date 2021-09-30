@@ -1,0 +1,13 @@
+Description
+Solve this puzzle and get the flag.
+
+Encrypted Data = "1145cc93cbfec69803c6"
+
+Mission
+Try to Decrypt the data and submit the flag below.
+
+Important Note
+Wrap up the flag in HE{} and submit.
+
+Hint
+My Width = len(Encrypted Data) - X / 2X

@@ -1,0 +1,11 @@
+Rishabh Bansal - HackerEarth  10:09 AM
+https://hackerearthdevs.slack.com/archives/C019N924554/p1608455398215500
+Hey @channel!
+Only the people who have registered before 01:00 PM, 18th December have received the credentials to log in at https://cybersec.hackerearth.com
+The next set of CTF challenges will be announced at 04:00 PM today.
+We will let you know if there's a site crash, but we assure you that the probability of this is rare.
+Flag for Slack Channel is:  HE{Welcome_to_BruteForce2_0}
+If you're asking a question, please search first  to make sure that you question has not been answered already.
+Please be respectful and cosiderate to the other members of the competition.
+You must have received a mail which says to submit the project, please ignore that e-mail, it's an automated mail sent by our system, it has nothing to do with our CTF challenge.
+Don't DM any admin for any query, we are a community, please ask your questions publically so that everyone can help you out.
